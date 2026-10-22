@@ -1,0 +1,2 @@
+EKG-Atlas Änderungslog (neue Einträge unten, nichts wird gelöscht)
+2026-10-22 | v1.0.0 | Ausgangsstand veröffentlicht, keine freigegebenen Änderungen | 28 Quellen mit Prüfstatus

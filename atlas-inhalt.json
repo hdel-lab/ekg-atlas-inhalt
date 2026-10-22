@@ -1,0 +1,233 @@
+{
+ "schema": 1,
+ "atlasVersion": "1.0.0",
+ "generatedAt": "2026-10-22T08:59:55Z",
+ "hinweis": "Nur vom Administrator freigegebene Änderungen. Patches werden der Reihe nach auf die eingebaute Atlasversion angewendet.",
+ "patches": [],
+ "sources": [
+  {
+   "id": "AHA-QT",
+   "ver": "",
+   "state": "unclear",
+   "note": "Suche am 22.10.2026: keine Aktualisierung der AHA/ACCF/HRS-Empfehlung von 2009 gefunden; Volltext mit Grenzwerten weiterhin nicht abgerufen, Grenzwerte nur über Sekundärquelle bestätigt.",
+   "url": "https://rogerslab.stanford.edu/ep-tools/qtc-calculator/",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "AHA25-ALS",
+   "ver": "AHA 2025",
+   "state": "ok",
+   "note": "Algorithmus Tachyarrhythmie mit Puls (© 2025) am 22.10.2026 abgerufen: Adenosin 6 mg, dann 12 mg; Amiodaron 150 mg über 10 min, Erhaltung 1 mg/min; keine Joule-Werte genannt. Keine neuere Fassung erkennbar.",
+   "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-ACLS-Tachycardia-250514.pdf",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "CREDIBLEMEDS",
+   "ver": "",
+   "state": "unclear",
+   "note": "crediblemeds.org am 22.10.2026 abgerufen: keine Listenversion angegeben; letzte Meldung 14.09.2026 (Änderungen der QTdrugs-Liste). Keine belastbare Version prüfbar.",
+   "url": "https://crediblemeds.org",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ERC21-ALS",
+   "ver": "",
+   "state": "superseded",
+   "note": "erc.edu am 22.10.2026 abgerufen: nur Fassung 2025 gelistet (Start 22.10.2025 in Rotterdam), kein Erratum aufgeführt; 2021 ersetzt.",
+   "url": "https://www.erc.edu/science-research/guidelines/guidelines-2025/guidelines-2025-english",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ERC25-ALS",
+   "ver": "ERC Guidelines 2025",
+   "state": "ok",
+   "note": "Erc.edu-Übersicht und Suche am 22.10.2026: keine neuere Fassung, kein Erratum gefunden. Volltext (Abschnitt Adenosin) weiterhin nicht abgerufen.",
+   "url": "https://doi.org/10.1016/j.resuscitation.2025.110769",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ERC25-PRC",
+   "ver": "ERC-ESICM 2025",
+   "state": "ok",
+   "note": "Seite am 22.10.2026 abgerufen: Resuscitation 2025;215 Suppl 1:110809, veröffentlicht 27.10.2025; keine neuere Fassung.",
+   "url": "https://www.resus.org.uk/print/pdf/node/36441",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ERC25-SC",
+   "ver": "ERC Guidelines 2025",
+   "state": "unclear",
+   "note": "RCUK-Seite am 22.10.2026 abgerufen (Resuscitation 2025;215 Suppl 1:110753, 27.10.2025); ERC-Original weiterhin nicht direkt abgerufen.",
+   "url": "https://www.resus.org.uk/print/pdf/node/36442",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ESC19-SVT",
+   "ver": "",
+   "state": "ok",
+   "note": "ESC-Publikationsplan am 22.10.2026 abgerufen: keine Neufassung 2026–2028 geplant; ACS-Neufassung 2027.",
+   "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/guidelines-development/guidelines-publication-schedule/",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ESC21-PACE",
+   "ver": "",
+   "state": "ok",
+   "note": "ESC-Publikationsplan am 22.10.2026 abgerufen: keine Neufassung 2026–2028 geplant; ACS-Neufassung 2027.",
+   "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/guidelines-development/guidelines-publication-schedule/",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ESC22-VA",
+   "ver": "",
+   "state": "ok",
+   "note": "ESC-Publikationsplan am 22.10.2026 abgerufen: keine Neufassung 2026–2028 geplant; ACS-Neufassung 2027.",
+   "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/guidelines-development/guidelines-publication-schedule/",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ESC23-ACS",
+   "ver": "",
+   "state": "ok",
+   "note": "Weiterhin gültig; ESC-Publikationsplan am 22.10.2026: Neufassung ACS für 2027 geplant.",
+   "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/guidelines-development/guidelines-publication-schedule/",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "ESC24-AF",
+   "ver": "",
+   "state": "ok",
+   "note": "ESC-Publikationsplan am 22.10.2026 abgerufen: keine Neufassung 2026–2028 geplant; ACS-Neufassung 2027.",
+   "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/guidelines-development/guidelines-publication-schedule/",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-ADENOSIN",
+   "ver": "Adenosin Hikma 6 mg/2 ml, Stand 07/2023",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (07/2023): 3 mg, 6 mg, 12 mg.",
+   "url": "https://www.hikma.com/media/ij4doxm2/spcde-adenosin-hikma-var001-clean.pdf",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-ADRENALIN",
+   "ver": "Adrenalin 1:1000 Infectopharm, Stand Juni 2026",
+   "state": "ok",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (Juni 2026): Reanimation 0,5–1 mg i.v. alle 3–5 min.",
+   "url": "https://www.fachinfo.de/fi/pdf/010954/adrenalin-1-1000-infectopharm-r",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-AMIODARON",
+   "ver": "Amiodaron HCl Hikma 50 mg/ml, Stand 12/2021",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (12/2021).",
+   "url": "https://www.hikma.com/media/i4ohy21p/spcde-amiodaron-hikma-var-022-1.pdf",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-ATROPIN",
+   "ver": "Atropinsulfat B. Braun 0,5 mg/ml, Stand Mai 2015",
+   "state": "ok",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (Mai 2015).",
+   "url": "https://fachinfo.de/fi/pdf/004423/atropinsulfat-b-braun-0-5-mg-ml-injektionsloesung",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-DIGOXIN",
+   "ver": "Lenoxin Tabletten/Liquidum (orale Darreichung), Stand August 2025",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (08/2025, orale Fassung). Ergänzung: Abschnitt 4.2 nennt zusätzlich 0,5–1,0 ng/ml als optimalen Talspiegel (Post-hoc: 0,5–0,9 ng/ml günstig); Vorschlag q06 ergänzt.",
+   "url": "https://fachinfo.de/pdf/001548",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-DILTIAZEM",
+   "ver": "",
+   "state": "unclear",
+   "note": "Suche am 22.10.2026: weiterhin keine deutsche Fachinformation einer i.v.-Darreichung gefunden; nicht prüfbar.",
+   "url": "",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-DOBUTAMIN",
+   "ver": "Dobutamin Liquid Fresenius 250 mg/50 ml, Stand Juli 2018",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (Juli 2018).",
+   "url": "https://fachinfo.de/pdf/007820",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-ESMOLOL",
+   "ver": "Brevibloc 10 mg/ml, Stand November 2022",
+   "state": "ok",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (11/2022).",
+   "url": "https://fachinfo.de/fi/pdf/014150/brevibloc-10-mg-ml-infusionsloesung",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-KALZIUM",
+   "ver": "Calciumgluconat B. Braun 10 %, Stand 07/2014",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (Juli 2014).",
+   "url": "https://fachinfo.de/pdf/002742",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-KCL",
+   "ver": "Kaliumchlorid 7,45 % gefärbt, Stand 08/2022",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (08/2022).",
+   "url": "https://www.fachinfo.de/pdf/008551",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-LIDOCAIN",
+   "ver": "Xylocitin-cor 2 % 5 ml/10 ml, Stand Februar 2020",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (02/2020).",
+   "url": "https://www.fachinfo.de/fi/detail/010735",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-MAGNESIUM",
+   "ver": "Magnesiumsulfat Kalceks 100/200 mg/ml (österreichische Fassung), Stand April 2022",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (04/2022, österreichische Fassung).",
+   "url": "https://www.everpharma.com/aut/wp-content/uploads/sites/5/2023/01/SmPC_Magnesiumsulfat-Kalceks_AT_100200-mg.ml_5-years_20220420_clean.pdf",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-METOPROLOL",
+   "ver": "Beloc i.v. 5 mg/5 ml, Stand September 2025",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (September 2025).",
+   "url": "https://www.fachinfo.de/fi/pdf/000230/beloc-i-v",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-NORADRENALIN",
+   "ver": "Arterenol 1 mg/ml, Stand Januar 2021",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (01/2021).",
+   "url": "https://fachinfo.de/pdf/000167",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "FI-VERAPAMIL",
+   "ver": "Isoptin Injektionslösung 5 mg/2 ml, Stand 04/2022",
+   "state": "changed",
+   "note": "Am 22.10.2026 erneut abgerufen, Stand unverändert (04/2022).",
+   "url": "https://fachinfo.de/pdf/007603",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  },
+  {
+   "id": "RCUK25",
+   "ver": "RCUK 2025 (V3, März 2026)",
+   "state": "ok",
+   "note": "Algorithmus „Updated March 2026“ am 22.10.2026 abgerufen: unverändert, neueste Fassung.",
+   "url": "https://www.resus.org.uk/sites/default/files/2026-03/Adult%20tachyarrhythmia%20algorithm%20V3%20March%202026.pdf",
+   "checkedAt": "2026-10-22T08:40:56.000Z"
+  }
+ ]
+}
